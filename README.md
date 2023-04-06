@@ -33,7 +33,7 @@ RapidAPI DeepL Translator Bob Plugin
 # 使用方法
 
 1. 安装 [Bob](https://bobtranslate.com/guide/#%E5%AE%89%E8%A3%85) (版本 >= 0.50)
-2. 下载此插件: [rapidapi-deepl-translator.bobplugin](https://github.com/yetone/bob-plugin-rapidapi-deepl-translator/releases)
+2. 下载此插件: [rapidapi-deepl-translator.aiplugin](https://github.com/yetone/bob-plugin-rapidapi-deepl-translator/releases)
 3. 安装此插件:
 
 ![](https://user-images.githubusercontent.com/1206493/219881154-c5d4187e-a44a-4325-9309-e9e570658164.gif)
