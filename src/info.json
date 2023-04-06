@@ -6,8 +6,8 @@
     "summary": "",
     "icon": "",
     "author": "yetone",
-    "homepage": "",
-    "appcast": "",
+    "homepage": "https://github.com/ytsteven/easyuseai-plugin-rapidapi-deepl-translator",
+    "appcast": "https://raw.githubusercontent.com/ytsteven/easyuseai-plugin-rapidapi-deepl-translator/main/appcast.json",
     "minVersion": "0.4.0",
     "options": [{
         "identifier": "api_keys",
