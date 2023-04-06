@@ -1,3 +1,5 @@
+# 已经迁移到易用AI，可下载[易用AI插件](https://github.com/ytsteven/easyuseai-plugin-rapidapi-deepl-translator/releases)(.aiplugin)使用 
+
 RapidAPI DeepL Translator Bob Plugin
 ------------------------------------
 
