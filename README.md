@@ -1,4 +1,4 @@
-<div style='display: none'> # 已经迁移到易用AI，可下载[易用AI插件](https://github.com/ytsteven/easyuseai-plugin-rapidapi-deepl-translator/releases)(.aiplugin)使用 </div>
+<!-- # 已经迁移到易用AI，可下载[易用AI插件](https://github.com/ytsteven/easyuseai-plugin-rapidapi-deepl-translator/releases)(.aiplugin)使用  -->
 # 正在迁移到[易用AI](https://easyuseai.com/)，进行中...
 
 RapidAPI DeepL Translator Bob Plugin
