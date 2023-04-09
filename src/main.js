@@ -79,3 +79,6 @@ function translate(query, completion) {
         });
     });
 }
+
+exports.supportLanguages = supportLanguages;
+exports.translate = translate;
