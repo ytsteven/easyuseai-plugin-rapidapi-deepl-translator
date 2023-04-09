@@ -1,0 +1,12 @@
+{
+  "identifier": "xyz.yetone.openai.polisher",
+  "versions": [
+    {
+      "version": "0.0.3",
+      "desc": "首次打包",
+      "sha256": "1de52b573e184e92d708797d2323697ddbd15089f2f63199ae64ece0100773c8",
+      "url": "https://github.com/ytsteven/easyuseai-plugin-rapidapi-deepl-translator/releases/download/v0.0.3/rapidapi-deepl-translator-0.0.3.aiplugin",
+      "minVersion": "0.4.0"
+    }
+  ]
+}
